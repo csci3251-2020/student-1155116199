@@ -1,7 +1,9 @@
-#I am Yousif Alebyary. Here are my interests:
+# I am Yousif Alebyary. Here are my interests:
 * Web Development
 * Mobile Development
 * UI/UX Design
+
+I use Github to showcase my projects and work.
 
 | Course Name                         | Course Code |
 |-------------------------------------|-------------|
